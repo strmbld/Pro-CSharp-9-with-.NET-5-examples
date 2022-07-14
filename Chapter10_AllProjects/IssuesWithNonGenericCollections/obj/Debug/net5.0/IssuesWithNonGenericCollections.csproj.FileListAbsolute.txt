@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.exe
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.deps.json
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.runtimeconfig.json
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.runtimeconfig.dev.json
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.dll
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\bin\Debug\net5.0\ref\IssuesWithNonGenericCollections.dll
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\bin\Debug\net5.0\IssuesWithNonGenericCollections.pdb
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.AssemblyInfo.cs
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.dll
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\obj\Debug\net5.0\ref\IssuesWithNonGenericCollections.dll
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.pdb
+D:\dev\cs\Chapter10_AllProjects\IssuesWithNonGenericCollections\obj\Debug\net5.0\IssuesWithNonGenericCollections.genruntimeconfig.cache

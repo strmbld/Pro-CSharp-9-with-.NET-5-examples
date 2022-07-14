@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net5.0\BasicConsoleIO.exe
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net5.0\BasicConsoleIO.deps.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net5.0\BasicConsoleIO.runtimeconfig.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net5.0\BasicConsoleIO.runtimeconfig.dev.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net5.0\BasicConsoleIO.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net5.0\ref\BasicConsoleIO.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\bin\Debug\net5.0\BasicConsoleIO.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net5.0\BasicConsoleIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net5.0\BasicConsoleIO.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net5.0\BasicConsoleIO.AssemblyInfo.cs
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net5.0\BasicConsoleIO.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net5.0\BasicConsoleIO.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net5.0\ref\BasicConsoleIO.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net5.0\BasicConsoleIO.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net5.0\BasicConsoleIO.genruntimeconfig.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicConsoleIO\obj\Debug\net5.0\BasicConsoleIO.csproj.AssemblyReference.cache

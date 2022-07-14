@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.exe
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.deps.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.runtimeconfig.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.runtimeconfig.dev.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\bin\Debug\net5.0\ref\ValueAndReferenceTypes.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\bin\Debug\net5.0\ValueAndReferenceTypes.pdb
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.AssemblyInfo.cs
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\obj\Debug\net5.0\ref\ValueAndReferenceTypes.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.pdb
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\ValueAndReferenceTypes\obj\Debug\net5.0\ValueAndReferenceTypes.genruntimeconfig.cache

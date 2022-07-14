@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\bin\Debug\net5.0\ObjectOverrides.exe
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\bin\Debug\net5.0\ObjectOverrides.deps.json
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\bin\Debug\net5.0\ObjectOverrides.runtimeconfig.json
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\bin\Debug\net5.0\ObjectOverrides.runtimeconfig.dev.json
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\bin\Debug\net5.0\ObjectOverrides.dll
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\bin\Debug\net5.0\ref\ObjectOverrides.dll
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\bin\Debug\net5.0\ObjectOverrides.pdb
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\obj\Debug\net5.0\ObjectOverrides.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\obj\Debug\net5.0\ObjectOverrides.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\obj\Debug\net5.0\ObjectOverrides.AssemblyInfo.cs
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\obj\Debug\net5.0\ObjectOverrides.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\obj\Debug\net5.0\ObjectOverrides.dll
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\obj\Debug\net5.0\ref\ObjectOverrides.dll
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\obj\Debug\net5.0\ObjectOverrides.pdb
+D:\dev\cs\Chapter6_AllProjects\ObjectOverrides\obj\Debug\net5.0\ObjectOverrides.genruntimeconfig.cache

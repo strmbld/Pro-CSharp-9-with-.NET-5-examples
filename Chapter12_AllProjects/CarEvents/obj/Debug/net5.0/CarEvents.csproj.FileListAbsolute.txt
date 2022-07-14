@@ -1,0 +1,16 @@
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\bin\Debug\net5.0\CarEvents.exe
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\bin\Debug\net5.0\CarEvents.deps.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\bin\Debug\net5.0\CarEvents.runtimeconfig.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\bin\Debug\net5.0\CarEvents.runtimeconfig.dev.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\bin\Debug\net5.0\CarEvents.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\bin\Debug\net5.0\ref\CarEvents.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\bin\Debug\net5.0\CarEvents.pdb
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\obj\Debug\net5.0\CarEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\obj\Debug\net5.0\CarEvents.AssemblyInfoInputs.cache
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\obj\Debug\net5.0\CarEvents.AssemblyInfo.cs
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\obj\Debug\net5.0\CarEvents.csproj.CoreCompileInputs.cache
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\obj\Debug\net5.0\CarEvents.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\obj\Debug\net5.0\ref\CarEvents.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\obj\Debug\net5.0\CarEvents.pdb
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\obj\Debug\net5.0\CarEvents.genruntimeconfig.cache
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarEvents\obj\Debug\net5.0\CarEvents.csproj.AssemblyReference.cache

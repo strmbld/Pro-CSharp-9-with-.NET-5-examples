@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\bin\Debug\net5.0\ObjectInitialization.exe
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\bin\Debug\net5.0\ObjectInitialization.deps.json
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\bin\Debug\net5.0\ObjectInitialization.runtimeconfig.json
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\bin\Debug\net5.0\ObjectInitialization.runtimeconfig.dev.json
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\bin\Debug\net5.0\ObjectInitialization.dll
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\bin\Debug\net5.0\ref\ObjectInitialization.dll
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\bin\Debug\net5.0\ObjectInitialization.pdb
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\obj\Debug\net5.0\ObjectInitialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\obj\Debug\net5.0\ObjectInitialization.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\obj\Debug\net5.0\ObjectInitialization.AssemblyInfo.cs
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\obj\Debug\net5.0\ObjectInitialization.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\obj\Debug\net5.0\ObjectInitialization.dll
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\obj\Debug\net5.0\ref\ObjectInitialization.dll
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\obj\Debug\net5.0\ObjectInitialization.pdb
+D:\dev\cs\Chapter5_AllProjects\ObjectInitialization\obj\Debug\net5.0\ObjectInitialization.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\bin\Debug\net5.0\Structures.exe
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\bin\Debug\net5.0\Structures.deps.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\bin\Debug\net5.0\Structures.runtimeconfig.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\bin\Debug\net5.0\Structures.runtimeconfig.dev.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\bin\Debug\net5.0\Structures.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\bin\Debug\net5.0\ref\Structures.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\bin\Debug\net5.0\Structures.pdb
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\obj\Debug\net5.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\obj\Debug\net5.0\Structures.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\obj\Debug\net5.0\Structures.AssemblyInfo.cs
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\obj\Debug\net5.0\Structures.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\obj\Debug\net5.0\Structures.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\obj\Debug\net5.0\ref\Structures.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\obj\Debug\net5.0\Structures.pdb
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\obj\Debug\net5.0\Structures.genruntimeconfig.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Structures\obj\Debug\net5.0\Structures.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\bin\Debug\net5.0\SimpleGC.exe
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\bin\Debug\net5.0\SimpleGC.deps.json
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\bin\Debug\net5.0\SimpleGC.runtimeconfig.json
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\bin\Debug\net5.0\SimpleGC.runtimeconfig.dev.json
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\bin\Debug\net5.0\SimpleGC.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\bin\Debug\net5.0\ref\SimpleGC.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\bin\Debug\net5.0\SimpleGC.pdb
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\obj\Debug\net5.0\SimpleGC.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\obj\Debug\net5.0\SimpleGC.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\obj\Debug\net5.0\SimpleGC.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\obj\Debug\net5.0\SimpleGC.AssemblyInfo.cs
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\obj\Debug\net5.0\SimpleGC.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\obj\Debug\net5.0\SimpleGC.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\obj\Debug\net5.0\ref\SimpleGC.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\obj\Debug\net5.0\SimpleGC.pdb
+D:\dev\cs\Chapter9_AllProjects\SimpleGC\obj\Debug\net5.0\SimpleGC.genruntimeconfig.cache

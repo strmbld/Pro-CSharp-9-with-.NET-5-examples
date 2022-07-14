@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter5_AllProjects\Employee\bin\Debug\net5.0\Employee.exe
+D:\dev\cs\Chapter5_AllProjects\Employee\bin\Debug\net5.0\Employee.deps.json
+D:\dev\cs\Chapter5_AllProjects\Employee\bin\Debug\net5.0\Employee.runtimeconfig.json
+D:\dev\cs\Chapter5_AllProjects\Employee\bin\Debug\net5.0\Employee.runtimeconfig.dev.json
+D:\dev\cs\Chapter5_AllProjects\Employee\bin\Debug\net5.0\Employee.dll
+D:\dev\cs\Chapter5_AllProjects\Employee\bin\Debug\net5.0\ref\Employee.dll
+D:\dev\cs\Chapter5_AllProjects\Employee\bin\Debug\net5.0\Employee.pdb
+D:\dev\cs\Chapter5_AllProjects\Employee\obj\Debug\net5.0\Employee.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter5_AllProjects\Employee\obj\Debug\net5.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter5_AllProjects\Employee\obj\Debug\net5.0\Employee.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter5_AllProjects\Employee\obj\Debug\net5.0\Employee.AssemblyInfo.cs
+D:\dev\cs\Chapter5_AllProjects\Employee\obj\Debug\net5.0\Employee.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter5_AllProjects\Employee\obj\Debug\net5.0\Employee.dll
+D:\dev\cs\Chapter5_AllProjects\Employee\obj\Debug\net5.0\ref\Employee.dll
+D:\dev\cs\Chapter5_AllProjects\Employee\obj\Debug\net5.0\Employee.pdb
+D:\dev\cs\Chapter5_AllProjects\Employee\obj\Debug\net5.0\Employee.genruntimeconfig.cache

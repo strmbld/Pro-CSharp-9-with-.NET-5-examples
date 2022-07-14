@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\bin\Debug\net5.0\Strings.exe
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\bin\Debug\net5.0\Strings.deps.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\bin\Debug\net5.0\Strings.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\bin\Debug\net5.0\ref\Strings.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\bin\Debug\net5.0\Strings.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\obj\Debug\net5.0\Strings.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\obj\Debug\net5.0\ref\Strings.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\obj\Debug\net5.0\Strings.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\Strings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache

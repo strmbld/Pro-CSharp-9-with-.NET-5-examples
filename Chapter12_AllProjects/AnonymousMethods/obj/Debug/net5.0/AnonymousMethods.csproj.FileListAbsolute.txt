@@ -1,0 +1,15 @@
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.exe
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.deps.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.runtimeconfig.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.runtimeconfig.dev.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\bin\Debug\net5.0\ref\AnonymousMethods.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.pdb
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.AssemblyInfo.cs
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\obj\Debug\net5.0\ref\AnonymousMethods.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.pdb
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.genruntimeconfig.cache

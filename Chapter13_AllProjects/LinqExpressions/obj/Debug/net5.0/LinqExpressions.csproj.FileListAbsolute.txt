@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\bin\Debug\net5.0\LinqExpressions.exe
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\bin\Debug\net5.0\LinqExpressions.deps.json
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\bin\Debug\net5.0\LinqExpressions.runtimeconfig.json
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\bin\Debug\net5.0\LinqExpressions.runtimeconfig.dev.json
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\bin\Debug\net5.0\LinqExpressions.dll
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\bin\Debug\net5.0\ref\LinqExpressions.dll
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\bin\Debug\net5.0\LinqExpressions.pdb
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\obj\Debug\net5.0\LinqExpressions.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\obj\Debug\net5.0\LinqExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\obj\Debug\net5.0\LinqExpressions.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\obj\Debug\net5.0\LinqExpressions.AssemblyInfo.cs
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\obj\Debug\net5.0\LinqExpressions.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\obj\Debug\net5.0\LinqExpressions.dll
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\obj\Debug\net5.0\ref\LinqExpressions.dll
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\obj\Debug\net5.0\LinqExpressions.pdb
+D:\dev\cs\Chapter13_AllProjects\LinqExpressions\obj\Debug\net5.0\LinqExpressions.genruntimeconfig.cache

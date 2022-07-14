@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.exe
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.deps.json
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.runtimeconfig.json
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.runtimeconfig.dev.json
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.dll
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\bin\Debug\net5.0\ref\InterfaceHierarchy.dll
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\bin\Debug\net5.0\InterfaceHierarchy.pdb
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.AssemblyInfo.cs
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.dll
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\obj\Debug\net5.0\ref\InterfaceHierarchy.dll
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.pdb
+D:\dev\cs\Chapter8_AllProjects\InterfaceHierarchy\obj\Debug\net5.0\InterfaceHierarchy.genruntimeconfig.cache

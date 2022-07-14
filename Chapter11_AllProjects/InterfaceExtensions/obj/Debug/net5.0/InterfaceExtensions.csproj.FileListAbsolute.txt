@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\bin\Debug\net5.0\InterfaceExtensions.exe
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\bin\Debug\net5.0\InterfaceExtensions.deps.json
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\bin\Debug\net5.0\InterfaceExtensions.runtimeconfig.json
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\bin\Debug\net5.0\InterfaceExtensions.runtimeconfig.dev.json
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\bin\Debug\net5.0\InterfaceExtensions.dll
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\bin\Debug\net5.0\ref\InterfaceExtensions.dll
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\bin\Debug\net5.0\InterfaceExtensions.pdb
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\obj\Debug\net5.0\InterfaceExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\obj\Debug\net5.0\InterfaceExtensions.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\obj\Debug\net5.0\InterfaceExtensions.AssemblyInfo.cs
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\obj\Debug\net5.0\InterfaceExtensions.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\obj\Debug\net5.0\InterfaceExtensions.dll
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\obj\Debug\net5.0\ref\InterfaceExtensions.dll
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\obj\Debug\net5.0\InterfaceExtensions.pdb
+D:\dev\cs\Chapter11_AllProjects\InterfaceExtensions\obj\Debug\net5.0\InterfaceExtensions.genruntimeconfig.cache

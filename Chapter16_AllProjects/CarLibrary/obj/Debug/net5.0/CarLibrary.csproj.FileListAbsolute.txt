@@ -1,0 +1,12 @@
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\bin\Debug\net5.0\CarLibrary.deps.json
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\bin\Debug\net5.0\CarLibrary.dll
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\bin\Debug\net5.0\ref\CarLibrary.dll
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\bin\Debug\net5.0\CarLibrary.pdb
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\obj\Debug\net5.0\CarLibrary.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\obj\Debug\net5.0\CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\obj\Debug\net5.0\CarLibrary.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\obj\Debug\net5.0\CarLibrary.AssemblyInfo.cs
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\obj\Debug\net5.0\CarLibrary.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\obj\Debug\net5.0\CarLibrary.dll
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\obj\Debug\net5.0\ref\CarLibrary.dll
+D:\dev\cs\Chapter16_AllProjects\CarLibrary\obj\Debug\net5.0\CarLibrary.pdb

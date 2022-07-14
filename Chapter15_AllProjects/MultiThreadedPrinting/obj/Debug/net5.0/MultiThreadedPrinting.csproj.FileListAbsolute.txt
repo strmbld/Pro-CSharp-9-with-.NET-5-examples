@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\bin\Debug\net5.0\MultiThreadedPrinting.exe
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\bin\Debug\net5.0\MultiThreadedPrinting.deps.json
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\bin\Debug\net5.0\MultiThreadedPrinting.runtimeconfig.json
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\bin\Debug\net5.0\MultiThreadedPrinting.runtimeconfig.dev.json
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\bin\Debug\net5.0\MultiThreadedPrinting.dll
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\bin\Debug\net5.0\ref\MultiThreadedPrinting.dll
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\bin\Debug\net5.0\MultiThreadedPrinting.pdb
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\obj\Debug\net5.0\MultiThreadedPrinting.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\obj\Debug\net5.0\MultiThreadedPrinting.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\obj\Debug\net5.0\MultiThreadedPrinting.AssemblyInfo.cs
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\obj\Debug\net5.0\MultiThreadedPrinting.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\obj\Debug\net5.0\MultiThreadedPrinting.dll
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\obj\Debug\net5.0\ref\MultiThreadedPrinting.dll
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\obj\Debug\net5.0\MultiThreadedPrinting.pdb
+D:\dev\cs\Chapter15_AllProjects\MultiThreadedPrinting\obj\Debug\net5.0\MultiThreadedPrinting.genruntimeconfig.cache

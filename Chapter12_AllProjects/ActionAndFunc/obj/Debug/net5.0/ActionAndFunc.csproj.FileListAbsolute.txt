@@ -1,0 +1,16 @@
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\bin\Debug\net5.0\ActionAndFunc.exe
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\bin\Debug\net5.0\ActionAndFunc.deps.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\bin\Debug\net5.0\ActionAndFunc.runtimeconfig.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\bin\Debug\net5.0\ActionAndFunc.runtimeconfig.dev.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\bin\Debug\net5.0\ActionAndFunc.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\bin\Debug\net5.0\ref\ActionAndFunc.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\bin\Debug\net5.0\ActionAndFunc.pdb
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\obj\Debug\net5.0\ActionAndFunc.csproj.AssemblyReference.cache
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\obj\Debug\net5.0\ActionAndFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\obj\Debug\net5.0\ActionAndFunc.AssemblyInfoInputs.cache
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\obj\Debug\net5.0\ActionAndFunc.AssemblyInfo.cs
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\obj\Debug\net5.0\ActionAndFunc.csproj.CoreCompileInputs.cache
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\obj\Debug\net5.0\ActionAndFunc.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\obj\Debug\net5.0\ref\ActionAndFunc.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\obj\Debug\net5.0\ActionAndFunc.pdb
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\ActionAndFunc\obj\Debug\net5.0\ActionAndFunc.genruntimeconfig.cache

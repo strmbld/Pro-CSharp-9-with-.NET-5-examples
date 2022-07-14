@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter5_AllProjects\ConstFields\bin\Debug\net5.0\ConstFields.exe
+D:\dev\cs\Chapter5_AllProjects\ConstFields\bin\Debug\net5.0\ConstFields.deps.json
+D:\dev\cs\Chapter5_AllProjects\ConstFields\bin\Debug\net5.0\ConstFields.runtimeconfig.json
+D:\dev\cs\Chapter5_AllProjects\ConstFields\bin\Debug\net5.0\ConstFields.runtimeconfig.dev.json
+D:\dev\cs\Chapter5_AllProjects\ConstFields\bin\Debug\net5.0\ConstFields.dll
+D:\dev\cs\Chapter5_AllProjects\ConstFields\bin\Debug\net5.0\ref\ConstFields.dll
+D:\dev\cs\Chapter5_AllProjects\ConstFields\bin\Debug\net5.0\ConstFields.pdb
+D:\dev\cs\Chapter5_AllProjects\ConstFields\obj\Debug\net5.0\ConstFields.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter5_AllProjects\ConstFields\obj\Debug\net5.0\ConstFields.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter5_AllProjects\ConstFields\obj\Debug\net5.0\ConstFields.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter5_AllProjects\ConstFields\obj\Debug\net5.0\ConstFields.AssemblyInfo.cs
+D:\dev\cs\Chapter5_AllProjects\ConstFields\obj\Debug\net5.0\ConstFields.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter5_AllProjects\ConstFields\obj\Debug\net5.0\ConstFields.dll
+D:\dev\cs\Chapter5_AllProjects\ConstFields\obj\Debug\net5.0\ref\ConstFields.dll
+D:\dev\cs\Chapter5_AllProjects\ConstFields\obj\Debug\net5.0\ConstFields.pdb
+D:\dev\cs\Chapter5_AllProjects\ConstFields\obj\Debug\net5.0\ConstFields.genruntimeconfig.cache

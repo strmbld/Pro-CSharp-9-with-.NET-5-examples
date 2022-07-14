@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\bin\Debug\net5.0\ThreadStats.exe
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\bin\Debug\net5.0\ThreadStats.deps.json
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\bin\Debug\net5.0\ThreadStats.runtimeconfig.json
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\bin\Debug\net5.0\ThreadStats.runtimeconfig.dev.json
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\bin\Debug\net5.0\ThreadStats.dll
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\bin\Debug\net5.0\ref\ThreadStats.dll
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\bin\Debug\net5.0\ThreadStats.pdb
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\obj\Debug\net5.0\ThreadStats.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\obj\Debug\net5.0\ThreadStats.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\obj\Debug\net5.0\ThreadStats.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\obj\Debug\net5.0\ThreadStats.AssemblyInfo.cs
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\obj\Debug\net5.0\ThreadStats.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\obj\Debug\net5.0\ThreadStats.dll
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\obj\Debug\net5.0\ref\ThreadStats.dll
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\obj\Debug\net5.0\ThreadStats.pdb
+D:\dev\cs\Chapter15_AllProjects\ThreadStats\obj\Debug\net5.0\ThreadStats.genruntimeconfig.cache

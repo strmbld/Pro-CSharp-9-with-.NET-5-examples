@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\bin\Debug\net5.0\LateBindingApp.exe
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\bin\Debug\net5.0\LateBindingApp.deps.json
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\bin\Debug\net5.0\LateBindingApp.runtimeconfig.json
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\bin\Debug\net5.0\LateBindingApp.runtimeconfig.dev.json
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\bin\Debug\net5.0\LateBindingApp.dll
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\bin\Debug\net5.0\ref\LateBindingApp.dll
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\bin\Debug\net5.0\LateBindingApp.pdb
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\obj\Debug\net5.0\LateBindingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\obj\Debug\net5.0\LateBindingApp.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\obj\Debug\net5.0\LateBindingApp.AssemblyInfo.cs
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\obj\Debug\net5.0\LateBindingApp.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\obj\Debug\net5.0\LateBindingApp.dll
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\obj\Debug\net5.0\ref\LateBindingApp.dll
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\obj\Debug\net5.0\LateBindingApp.pdb
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\obj\Debug\net5.0\LateBindingApp.genruntimeconfig.cache
+D:\dev\cs\Chapter17_AllProjects\LateBindingApp\obj\Debug\net5.0\LateBindingApp.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.exe
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.deps.json
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.runtimeconfig.json
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.runtimeconfig.dev.json
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.dll
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\bin\Debug\net5.0\ref\AnonymousTypes.dll
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.pdb
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.AssemblyInfo.cs
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.dll
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\obj\Debug\net5.0\ref\AnonymousTypes.dll
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.pdb
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.genruntimeconfig.cache
+D:\dev\cs\Chapter11_AllProjects\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.exe
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.deps.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.runtimeconfig.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.runtimeconfig.dev.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\bin\Debug\net5.0\ref\SimpleCSharpApp.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\bin\Debug\net5.0\SimpleCSharpApp.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.AssemblyInfo.cs
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\obj\Debug\net5.0\ref\SimpleCSharpApp.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\SimpleCSharpApp\obj\Debug\net5.0\SimpleCSharpApp.genruntimeconfig.cache

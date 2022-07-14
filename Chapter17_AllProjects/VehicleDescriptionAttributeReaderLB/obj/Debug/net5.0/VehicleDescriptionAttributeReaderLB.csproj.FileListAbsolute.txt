@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\bin\Debug\net5.0\VehicleDescriptionAttributeReaderLB.exe
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\bin\Debug\net5.0\VehicleDescriptionAttributeReaderLB.deps.json
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\bin\Debug\net5.0\VehicleDescriptionAttributeReaderLB.runtimeconfig.json
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\bin\Debug\net5.0\VehicleDescriptionAttributeReaderLB.runtimeconfig.dev.json
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\bin\Debug\net5.0\VehicleDescriptionAttributeReaderLB.dll
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\bin\Debug\net5.0\ref\VehicleDescriptionAttributeReaderLB.dll
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\bin\Debug\net5.0\VehicleDescriptionAttributeReaderLB.pdb
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\obj\Debug\net5.0\VehicleDescriptionAttributeReaderLB.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\obj\Debug\net5.0\VehicleDescriptionAttributeReaderLB.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\obj\Debug\net5.0\VehicleDescriptionAttributeReaderLB.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\obj\Debug\net5.0\VehicleDescriptionAttributeReaderLB.AssemblyInfo.cs
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\obj\Debug\net5.0\VehicleDescriptionAttributeReaderLB.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\obj\Debug\net5.0\VehicleDescriptionAttributeReaderLB.dll
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\obj\Debug\net5.0\ref\VehicleDescriptionAttributeReaderLB.dll
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\obj\Debug\net5.0\VehicleDescriptionAttributeReaderLB.pdb
+D:\dev\cs\Chapter17_AllProjects\VehicleDescriptionAttributeReaderLB\obj\Debug\net5.0\VehicleDescriptionAttributeReaderLB.genruntimeconfig.cache

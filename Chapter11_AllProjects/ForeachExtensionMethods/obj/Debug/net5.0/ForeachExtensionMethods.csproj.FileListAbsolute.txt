@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\bin\Debug\net5.0\ForeachExtensionMethods.exe
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\bin\Debug\net5.0\ForeachExtensionMethods.deps.json
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\bin\Debug\net5.0\ForeachExtensionMethods.runtimeconfig.json
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\bin\Debug\net5.0\ForeachExtensionMethods.runtimeconfig.dev.json
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\bin\Debug\net5.0\ForeachExtensionMethods.dll
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\bin\Debug\net5.0\ref\ForeachExtensionMethods.dll
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\bin\Debug\net5.0\ForeachExtensionMethods.pdb
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\obj\Debug\net5.0\ForeachExtensionMethods.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\obj\Debug\net5.0\ForeachExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\obj\Debug\net5.0\ForeachExtensionMethods.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\obj\Debug\net5.0\ForeachExtensionMethods.AssemblyInfo.cs
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\obj\Debug\net5.0\ForeachExtensionMethods.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\obj\Debug\net5.0\ForeachExtensionMethods.dll
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\obj\Debug\net5.0\ref\ForeachExtensionMethods.dll
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\obj\Debug\net5.0\ForeachExtensionMethods.pdb
+D:\dev\cs\Chapter11_AllProjects\ForeachExtensionMethods\obj\Debug\net5.0\ForeachExtensionMethods.genruntimeconfig.cache

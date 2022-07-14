@@ -1,0 +1,12 @@
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\bin\Debug\net5.0\AutoLot.Model.deps.json
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\bin\Debug\net5.0\AutoLot.Model.dll
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\bin\Debug\net5.0\ref\AutoLot.Model.dll
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\bin\Debug\net5.0\AutoLot.Model.pdb
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\obj\Debug\net5.0\AutoLot.Model.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\obj\Debug\net5.0\AutoLot.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\obj\Debug\net5.0\AutoLot.Model.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\obj\Debug\net5.0\AutoLot.Model.AssemblyInfo.cs
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\obj\Debug\net5.0\AutoLot.Model.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\obj\Debug\net5.0\AutoLot.Model.dll
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\obj\Debug\net5.0\ref\AutoLot.Model.dll
+D:\dev\cs\Chapter23_AllProjects\AutoLot.Model\obj\Debug\net5.0\AutoLot.Model.pdb

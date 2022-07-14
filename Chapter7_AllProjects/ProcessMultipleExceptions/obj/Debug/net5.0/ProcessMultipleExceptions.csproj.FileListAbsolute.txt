@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\bin\Debug\net5.0\ProcessMultipleExceptions.exe
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\bin\Debug\net5.0\ProcessMultipleExceptions.deps.json
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\bin\Debug\net5.0\ProcessMultipleExceptions.runtimeconfig.json
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\bin\Debug\net5.0\ProcessMultipleExceptions.runtimeconfig.dev.json
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\bin\Debug\net5.0\ProcessMultipleExceptions.dll
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\bin\Debug\net5.0\ref\ProcessMultipleExceptions.dll
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\bin\Debug\net5.0\ProcessMultipleExceptions.pdb
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\obj\Debug\net5.0\ProcessMultipleExceptions.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\obj\Debug\net5.0\ProcessMultipleExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\obj\Debug\net5.0\ProcessMultipleExceptions.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\obj\Debug\net5.0\ProcessMultipleExceptions.AssemblyInfo.cs
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\obj\Debug\net5.0\ProcessMultipleExceptions.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\obj\Debug\net5.0\ProcessMultipleExceptions.dll
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\obj\Debug\net5.0\ref\ProcessMultipleExceptions.dll
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\obj\Debug\net5.0\ProcessMultipleExceptions.pdb
+D:\dev\cs\Chapter7_AllProjects\ProcessMultipleExceptions\obj\Debug\net5.0\ProcessMultipleExceptions.genruntimeconfig.cache

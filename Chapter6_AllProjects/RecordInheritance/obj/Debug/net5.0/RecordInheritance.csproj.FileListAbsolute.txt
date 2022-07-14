@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\bin\Debug\net5.0\RecordInheritance.exe
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\bin\Debug\net5.0\RecordInheritance.deps.json
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\bin\Debug\net5.0\RecordInheritance.runtimeconfig.json
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\bin\Debug\net5.0\RecordInheritance.runtimeconfig.dev.json
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\bin\Debug\net5.0\RecordInheritance.dll
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\bin\Debug\net5.0\ref\RecordInheritance.dll
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\bin\Debug\net5.0\RecordInheritance.pdb
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\obj\Debug\net5.0\RecordInheritance.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\obj\Debug\net5.0\RecordInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\obj\Debug\net5.0\RecordInheritance.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\obj\Debug\net5.0\RecordInheritance.AssemblyInfo.cs
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\obj\Debug\net5.0\RecordInheritance.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\obj\Debug\net5.0\RecordInheritance.dll
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\obj\Debug\net5.0\ref\RecordInheritance.dll
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\obj\Debug\net5.0\RecordInheritance.pdb
+D:\dev\cs\Chapter6_AllProjects\RecordInheritance\obj\Debug\net5.0\RecordInheritance.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\bin\Debug\net5.0\CustomConversions.exe
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\bin\Debug\net5.0\CustomConversions.deps.json
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\bin\Debug\net5.0\CustomConversions.runtimeconfig.json
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\bin\Debug\net5.0\CustomConversions.runtimeconfig.dev.json
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\bin\Debug\net5.0\CustomConversions.dll
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\bin\Debug\net5.0\ref\CustomConversions.dll
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\bin\Debug\net5.0\CustomConversions.pdb
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\obj\Debug\net5.0\CustomConversions.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\obj\Debug\net5.0\CustomConversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\obj\Debug\net5.0\CustomConversions.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\obj\Debug\net5.0\CustomConversions.AssemblyInfo.cs
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\obj\Debug\net5.0\CustomConversions.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\obj\Debug\net5.0\CustomConversions.dll
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\obj\Debug\net5.0\ref\CustomConversions.dll
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\obj\Debug\net5.0\CustomConversions.pdb
+D:\dev\cs\Chapter11_AllProjects\CustomConversions\obj\Debug\net5.0\CustomConversions.genruntimeconfig.cache

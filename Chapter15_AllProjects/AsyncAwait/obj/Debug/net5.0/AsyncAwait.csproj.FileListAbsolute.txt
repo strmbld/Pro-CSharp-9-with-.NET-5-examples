@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\bin\Debug\net5.0\AsyncAwait.exe
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\bin\Debug\net5.0\AsyncAwait.deps.json
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\bin\Debug\net5.0\AsyncAwait.runtimeconfig.json
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\bin\Debug\net5.0\AsyncAwait.runtimeconfig.dev.json
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\bin\Debug\net5.0\AsyncAwait.dll
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\bin\Debug\net5.0\ref\AsyncAwait.dll
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\bin\Debug\net5.0\AsyncAwait.pdb
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\obj\Debug\net5.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\obj\Debug\net5.0\AsyncAwait.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\obj\Debug\net5.0\AsyncAwait.AssemblyInfo.cs
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\obj\Debug\net5.0\AsyncAwait.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\obj\Debug\net5.0\AsyncAwait.dll
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\obj\Debug\net5.0\ref\AsyncAwait.dll
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\obj\Debug\net5.0\AsyncAwait.pdb
+D:\dev\cs\Chapter15_AllProjects\AsyncAwait\obj\Debug\net5.0\AsyncAwait.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\bin\Debug\net5.0\SimpleIndexer.exe
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\bin\Debug\net5.0\SimpleIndexer.deps.json
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\bin\Debug\net5.0\SimpleIndexer.runtimeconfig.json
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\bin\Debug\net5.0\SimpleIndexer.runtimeconfig.dev.json
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\bin\Debug\net5.0\SimpleIndexer.dll
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\bin\Debug\net5.0\ref\SimpleIndexer.dll
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\bin\Debug\net5.0\SimpleIndexer.pdb
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\obj\Debug\net5.0\SimpleIndexer.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\obj\Debug\net5.0\SimpleIndexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\obj\Debug\net5.0\SimpleIndexer.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\obj\Debug\net5.0\SimpleIndexer.AssemblyInfo.cs
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\obj\Debug\net5.0\SimpleIndexer.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\obj\Debug\net5.0\SimpleIndexer.dll
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\obj\Debug\net5.0\ref\SimpleIndexer.dll
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\obj\Debug\net5.0\SimpleIndexer.pdb
+D:\dev\cs\Chapter11_AllProjects\SimpleIndexer\obj\Debug\net5.0\SimpleIndexer.genruntimeconfig.cache

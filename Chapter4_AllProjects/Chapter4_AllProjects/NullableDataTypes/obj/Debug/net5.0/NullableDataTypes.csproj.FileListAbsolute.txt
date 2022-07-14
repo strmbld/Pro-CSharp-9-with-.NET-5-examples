@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\bin\Debug\net5.0\NullableDataTypes.exe
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\bin\Debug\net5.0\NullableDataTypes.deps.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\bin\Debug\net5.0\NullableDataTypes.runtimeconfig.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\bin\Debug\net5.0\NullableDataTypes.runtimeconfig.dev.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\bin\Debug\net5.0\NullableDataTypes.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\bin\Debug\net5.0\ref\NullableDataTypes.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\bin\Debug\net5.0\NullableDataTypes.pdb
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\obj\Debug\net5.0\NullableDataTypes.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\obj\Debug\net5.0\NullableDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\obj\Debug\net5.0\NullableDataTypes.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\obj\Debug\net5.0\NullableDataTypes.AssemblyInfo.cs
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\obj\Debug\net5.0\NullableDataTypes.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\obj\Debug\net5.0\NullableDataTypes.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\obj\Debug\net5.0\ref\NullableDataTypes.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\obj\Debug\net5.0\NullableDataTypes.pdb
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\NullableDataTypes\obj\Debug\net5.0\NullableDataTypes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\bin\Debug\net5.0\AddWithThreads.exe
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\bin\Debug\net5.0\AddWithThreads.deps.json
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\bin\Debug\net5.0\AddWithThreads.runtimeconfig.json
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\bin\Debug\net5.0\AddWithThreads.runtimeconfig.dev.json
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\bin\Debug\net5.0\AddWithThreads.dll
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\bin\Debug\net5.0\ref\AddWithThreads.dll
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\bin\Debug\net5.0\AddWithThreads.pdb
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\obj\Debug\net5.0\AddWithThreads.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\obj\Debug\net5.0\AddWithThreads.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\obj\Debug\net5.0\AddWithThreads.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\obj\Debug\net5.0\AddWithThreads.AssemblyInfo.cs
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\obj\Debug\net5.0\AddWithThreads.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\obj\Debug\net5.0\AddWithThreads.dll
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\obj\Debug\net5.0\ref\AddWithThreads.dll
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\obj\Debug\net5.0\AddWithThreads.pdb
+D:\dev\cs\Chapter15_AllProjects\AddWithThreads\obj\Debug\net5.0\AddWithThreads.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter15_AllProjects\EBookReader\bin\Release\net5.0\EBookReader.exe
+D:\dev\cs\Chapter15_AllProjects\EBookReader\bin\Release\net5.0\EBookReader.deps.json
+D:\dev\cs\Chapter15_AllProjects\EBookReader\bin\Release\net5.0\EBookReader.runtimeconfig.json
+D:\dev\cs\Chapter15_AllProjects\EBookReader\bin\Release\net5.0\EBookReader.runtimeconfig.dev.json
+D:\dev\cs\Chapter15_AllProjects\EBookReader\bin\Release\net5.0\EBookReader.dll
+D:\dev\cs\Chapter15_AllProjects\EBookReader\bin\Release\net5.0\ref\EBookReader.dll
+D:\dev\cs\Chapter15_AllProjects\EBookReader\bin\Release\net5.0\EBookReader.pdb
+D:\dev\cs\Chapter15_AllProjects\EBookReader\obj\Release\net5.0\EBookReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter15_AllProjects\EBookReader\obj\Release\net5.0\EBookReader.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter15_AllProjects\EBookReader\obj\Release\net5.0\EBookReader.AssemblyInfo.cs
+D:\dev\cs\Chapter15_AllProjects\EBookReader\obj\Release\net5.0\EBookReader.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter15_AllProjects\EBookReader\obj\Release\net5.0\EBookReader.dll
+D:\dev\cs\Chapter15_AllProjects\EBookReader\obj\Release\net5.0\ref\EBookReader.dll
+D:\dev\cs\Chapter15_AllProjects\EBookReader\obj\Release\net5.0\EBookReader.pdb
+D:\dev\cs\Chapter15_AllProjects\EBookReader\obj\Release\net5.0\EBookReader.genruntimeconfig.cache

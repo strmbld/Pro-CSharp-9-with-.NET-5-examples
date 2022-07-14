@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.exe
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.deps.json
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.json
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.dev.json
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.dll
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\bin\Debug\net5.0\ref\ExtensionMethods.dll
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.pdb
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfo.cs
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.dll
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\obj\Debug\net5.0\ref\ExtensionMethods.dll
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.pdb
+D:\dev\cs\Chapter11_AllProjects\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.genruntimeconfig.cache

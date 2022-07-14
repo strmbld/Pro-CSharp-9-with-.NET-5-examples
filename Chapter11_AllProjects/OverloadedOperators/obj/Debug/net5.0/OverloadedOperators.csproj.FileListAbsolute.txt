@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\bin\Debug\net5.0\OverloadedOperators.exe
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\bin\Debug\net5.0\OverloadedOperators.deps.json
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\bin\Debug\net5.0\OverloadedOperators.runtimeconfig.json
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\bin\Debug\net5.0\OverloadedOperators.runtimeconfig.dev.json
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\bin\Debug\net5.0\OverloadedOperators.dll
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\bin\Debug\net5.0\ref\OverloadedOperators.dll
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\bin\Debug\net5.0\OverloadedOperators.pdb
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\obj\Debug\net5.0\OverloadedOperators.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\obj\Debug\net5.0\OverloadedOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\obj\Debug\net5.0\OverloadedOperators.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\obj\Debug\net5.0\OverloadedOperators.AssemblyInfo.cs
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\obj\Debug\net5.0\OverloadedOperators.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\obj\Debug\net5.0\OverloadedOperators.dll
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\obj\Debug\net5.0\ref\OverloadedOperators.dll
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\obj\Debug\net5.0\OverloadedOperators.pdb
+D:\dev\cs\Chapter11_AllProjects\OverloadedOperators\obj\Debug\net5.0\OverloadedOperators.genruntimeconfig.cache

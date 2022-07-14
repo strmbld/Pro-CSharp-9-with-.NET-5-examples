@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter14_AllProjects\Processes\bin\Debug\net5.0\Processes.exe
+D:\dev\cs\Chapter14_AllProjects\Processes\bin\Debug\net5.0\Processes.deps.json
+D:\dev\cs\Chapter14_AllProjects\Processes\bin\Debug\net5.0\Processes.runtimeconfig.json
+D:\dev\cs\Chapter14_AllProjects\Processes\bin\Debug\net5.0\Processes.runtimeconfig.dev.json
+D:\dev\cs\Chapter14_AllProjects\Processes\bin\Debug\net5.0\Processes.dll
+D:\dev\cs\Chapter14_AllProjects\Processes\bin\Debug\net5.0\ref\Processes.dll
+D:\dev\cs\Chapter14_AllProjects\Processes\bin\Debug\net5.0\Processes.pdb
+D:\dev\cs\Chapter14_AllProjects\Processes\obj\Debug\net5.0\Processes.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter14_AllProjects\Processes\obj\Debug\net5.0\Processes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter14_AllProjects\Processes\obj\Debug\net5.0\Processes.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter14_AllProjects\Processes\obj\Debug\net5.0\Processes.AssemblyInfo.cs
+D:\dev\cs\Chapter14_AllProjects\Processes\obj\Debug\net5.0\Processes.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter14_AllProjects\Processes\obj\Debug\net5.0\Processes.dll
+D:\dev\cs\Chapter14_AllProjects\Processes\obj\Debug\net5.0\ref\Processes.dll
+D:\dev\cs\Chapter14_AllProjects\Processes\obj\Debug\net5.0\Processes.pdb
+D:\dev\cs\Chapter14_AllProjects\Processes\obj\Debug\net5.0\Processes.genruntimeconfig.cache

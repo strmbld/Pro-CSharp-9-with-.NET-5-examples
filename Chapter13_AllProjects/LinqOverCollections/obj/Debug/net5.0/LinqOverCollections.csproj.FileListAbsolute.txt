@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\bin\Debug\net5.0\LinqOverCollections.exe
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\bin\Debug\net5.0\LinqOverCollections.deps.json
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\bin\Debug\net5.0\LinqOverCollections.runtimeconfig.json
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\bin\Debug\net5.0\LinqOverCollections.runtimeconfig.dev.json
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\bin\Debug\net5.0\LinqOverCollections.dll
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\bin\Debug\net5.0\ref\LinqOverCollections.dll
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\bin\Debug\net5.0\LinqOverCollections.pdb
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\obj\Debug\net5.0\LinqOverCollections.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\obj\Debug\net5.0\LinqOverCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\obj\Debug\net5.0\LinqOverCollections.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\obj\Debug\net5.0\LinqOverCollections.AssemblyInfo.cs
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\obj\Debug\net5.0\LinqOverCollections.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\obj\Debug\net5.0\LinqOverCollections.dll
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\obj\Debug\net5.0\ref\LinqOverCollections.dll
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\obj\Debug\net5.0\LinqOverCollections.pdb
+D:\dev\cs\Chapter13_AllProjects\LinqOverCollections\obj\Debug\net5.0\LinqOverCollections.genruntimeconfig.cache

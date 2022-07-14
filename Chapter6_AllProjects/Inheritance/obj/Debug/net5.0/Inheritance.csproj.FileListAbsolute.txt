@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter6_AllProjects\Inheritance\bin\Debug\net5.0\Inheritance.exe
+D:\dev\cs\Chapter6_AllProjects\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+D:\dev\cs\Chapter6_AllProjects\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+D:\dev\cs\Chapter6_AllProjects\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+D:\dev\cs\Chapter6_AllProjects\Inheritance\bin\Debug\net5.0\Inheritance.dll
+D:\dev\cs\Chapter6_AllProjects\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+D:\dev\cs\Chapter6_AllProjects\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+D:\dev\cs\Chapter6_AllProjects\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter6_AllProjects\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter6_AllProjects\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter6_AllProjects\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+D:\dev\cs\Chapter6_AllProjects\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter6_AllProjects\Inheritance\obj\Debug\net5.0\Inheritance.dll
+D:\dev\cs\Chapter6_AllProjects\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+D:\dev\cs\Chapter6_AllProjects\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+D:\dev\cs\Chapter6_AllProjects\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache

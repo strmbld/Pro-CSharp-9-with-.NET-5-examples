@@ -1,0 +1,16 @@
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\bin\Debug\net5.0\CarDelegate.exe
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\bin\Debug\net5.0\CarDelegate.deps.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\bin\Debug\net5.0\CarDelegate.runtimeconfig.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\bin\Debug\net5.0\CarDelegate.runtimeconfig.dev.json
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\bin\Debug\net5.0\CarDelegate.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\bin\Debug\net5.0\ref\CarDelegate.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\bin\Debug\net5.0\CarDelegate.pdb
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\obj\Debug\net5.0\CarDelegate.csproj.AssemblyReference.cache
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\obj\Debug\net5.0\CarDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\obj\Debug\net5.0\CarDelegate.AssemblyInfoInputs.cache
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\obj\Debug\net5.0\CarDelegate.AssemblyInfo.cs
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\obj\Debug\net5.0\CarDelegate.csproj.CoreCompileInputs.cache
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\obj\Debug\net5.0\CarDelegate.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\obj\Debug\net5.0\ref\CarDelegate.dll
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\obj\Debug\net5.0\CarDelegate.pdb
+C:\Users\slrnd\source\repos\Chapter12_AllProjects\CarDelegate\obj\Debug\net5.0\CarDelegate.genruntimeconfig.cache

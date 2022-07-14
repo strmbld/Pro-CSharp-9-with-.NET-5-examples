@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\bin\Debug\net5.0\DriveInfoApp.exe
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\bin\Debug\net5.0\DriveInfoApp.deps.json
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\bin\Debug\net5.0\DriveInfoApp.runtimeconfig.json
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\bin\Debug\net5.0\DriveInfoApp.runtimeconfig.dev.json
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\bin\Debug\net5.0\DriveInfoApp.dll
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\bin\Debug\net5.0\ref\DriveInfoApp.dll
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\bin\Debug\net5.0\DriveInfoApp.pdb
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\obj\Debug\net5.0\DriveInfoApp.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\obj\Debug\net5.0\DriveInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\obj\Debug\net5.0\DriveInfoApp.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\obj\Debug\net5.0\DriveInfoApp.AssemblyInfo.cs
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\obj\Debug\net5.0\DriveInfoApp.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\obj\Debug\net5.0\DriveInfoApp.dll
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\obj\Debug\net5.0\ref\DriveInfoApp.dll
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\obj\Debug\net5.0\DriveInfoApp.pdb
+D:\dev\cs\Chapter20_AllProjects\DriveInfoApp\obj\Debug\net5.0\DriveInfoApp.genruntimeconfig.cache

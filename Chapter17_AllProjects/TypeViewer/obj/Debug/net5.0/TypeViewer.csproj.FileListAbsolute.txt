@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\bin\Debug\net5.0\TypeViewer.exe
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\bin\Debug\net5.0\TypeViewer.deps.json
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\bin\Debug\net5.0\TypeViewer.runtimeconfig.json
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\bin\Debug\net5.0\TypeViewer.runtimeconfig.dev.json
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\bin\Debug\net5.0\TypeViewer.dll
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\bin\Debug\net5.0\ref\TypeViewer.dll
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\bin\Debug\net5.0\TypeViewer.pdb
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\obj\Debug\net5.0\TypeViewer.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\obj\Debug\net5.0\TypeViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\obj\Debug\net5.0\TypeViewer.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\obj\Debug\net5.0\TypeViewer.AssemblyInfo.cs
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\obj\Debug\net5.0\TypeViewer.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\obj\Debug\net5.0\TypeViewer.dll
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\obj\Debug\net5.0\ref\TypeViewer.dll
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\obj\Debug\net5.0\TypeViewer.pdb
+D:\dev\cs\Chapter17_AllProjects\TypeViewer\obj\Debug\net5.0\TypeViewer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

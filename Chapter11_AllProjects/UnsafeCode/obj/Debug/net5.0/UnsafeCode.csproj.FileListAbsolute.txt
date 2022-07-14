@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\bin\Debug\net5.0\UnsafeCode.exe
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\bin\Debug\net5.0\UnsafeCode.deps.json
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\bin\Debug\net5.0\UnsafeCode.runtimeconfig.json
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\bin\Debug\net5.0\UnsafeCode.runtimeconfig.dev.json
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\bin\Debug\net5.0\UnsafeCode.dll
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\bin\Debug\net5.0\ref\UnsafeCode.dll
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\bin\Debug\net5.0\UnsafeCode.pdb
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\obj\Debug\net5.0\UnsafeCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\obj\Debug\net5.0\UnsafeCode.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\obj\Debug\net5.0\UnsafeCode.AssemblyInfo.cs
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\obj\Debug\net5.0\UnsafeCode.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\obj\Debug\net5.0\UnsafeCode.dll
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\obj\Debug\net5.0\ref\UnsafeCode.dll
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\obj\Debug\net5.0\UnsafeCode.pdb
+D:\dev\cs\Chapter11_AllProjects\UnsafeCode\obj\Debug\net5.0\UnsafeCode.genruntimeconfig.cache

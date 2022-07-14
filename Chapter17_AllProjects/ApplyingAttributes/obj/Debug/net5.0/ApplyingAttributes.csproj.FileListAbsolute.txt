@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\bin\Debug\net5.0\ApplyingAttributes.exe
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\bin\Debug\net5.0\ApplyingAttributes.deps.json
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\bin\Debug\net5.0\ApplyingAttributes.runtimeconfig.json
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\bin\Debug\net5.0\ApplyingAttributes.runtimeconfig.dev.json
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\bin\Debug\net5.0\ApplyingAttributes.dll
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\bin\Debug\net5.0\ref\ApplyingAttributes.dll
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\bin\Debug\net5.0\ApplyingAttributes.pdb
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\obj\Debug\net5.0\ApplyingAttributes.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\obj\Debug\net5.0\ApplyingAttributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\obj\Debug\net5.0\ApplyingAttributes.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\obj\Debug\net5.0\ApplyingAttributes.AssemblyInfo.cs
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\obj\Debug\net5.0\ApplyingAttributes.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\obj\Debug\net5.0\ApplyingAttributes.dll
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\obj\Debug\net5.0\ref\ApplyingAttributes.dll
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\obj\Debug\net5.0\ApplyingAttributes.pdb
+D:\dev\cs\Chapter17_AllProjects\ApplyingAttributes\obj\Debug\net5.0\ApplyingAttributes.genruntimeconfig.cache

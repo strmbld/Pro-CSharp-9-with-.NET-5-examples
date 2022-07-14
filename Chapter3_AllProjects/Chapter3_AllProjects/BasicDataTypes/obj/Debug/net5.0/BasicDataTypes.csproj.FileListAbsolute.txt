@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\bin\Debug\net5.0\BasicDataTypes.exe
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\bin\Debug\net5.0\BasicDataTypes.deps.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\bin\Debug\net5.0\BasicDataTypes.runtimeconfig.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\bin\Debug\net5.0\BasicDataTypes.runtimeconfig.dev.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\bin\Debug\net5.0\BasicDataTypes.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\bin\Debug\net5.0\ref\BasicDataTypes.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\bin\Debug\net5.0\BasicDataTypes.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\obj\Debug\net5.0\BasicDataTypes.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\obj\Debug\net5.0\BasicDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\obj\Debug\net5.0\BasicDataTypes.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\obj\Debug\net5.0\BasicDataTypes.AssemblyInfo.cs
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\obj\Debug\net5.0\BasicDataTypes.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\obj\Debug\net5.0\BasicDataTypes.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\obj\Debug\net5.0\ref\BasicDataTypes.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\obj\Debug\net5.0\BasicDataTypes.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\BasicDataTypes\obj\Debug\net5.0\BasicDataTypes.genruntimeconfig.cache

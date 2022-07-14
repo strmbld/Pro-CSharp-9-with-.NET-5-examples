@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRMok+Y2iNu8owsly2cvSQy1ZO/XpFUSu+k1POVhZdQzGbUdfTggx8p6kYAo+kaOgRB6g5B9uX0qxMr0KlsbFw==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\cs\\Chapter15_AllProjects\\DataParallelismWithForEach\\DataParallelismWithForEach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\slrnd\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\slrnd\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\slrnd\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

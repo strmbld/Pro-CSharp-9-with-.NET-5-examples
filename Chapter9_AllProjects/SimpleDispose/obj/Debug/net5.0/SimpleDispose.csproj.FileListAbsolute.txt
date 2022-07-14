@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\bin\Debug\net5.0\SimpleDispose.exe
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\bin\Debug\net5.0\SimpleDispose.deps.json
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\bin\Debug\net5.0\SimpleDispose.runtimeconfig.json
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\bin\Debug\net5.0\SimpleDispose.runtimeconfig.dev.json
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\bin\Debug\net5.0\SimpleDispose.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\bin\Debug\net5.0\ref\SimpleDispose.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\bin\Debug\net5.0\SimpleDispose.pdb
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\obj\Debug\net5.0\SimpleDispose.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\obj\Debug\net5.0\SimpleDispose.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\obj\Debug\net5.0\SimpleDispose.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\obj\Debug\net5.0\SimpleDispose.AssemblyInfo.cs
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\obj\Debug\net5.0\SimpleDispose.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\obj\Debug\net5.0\SimpleDispose.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\obj\Debug\net5.0\ref\SimpleDispose.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\obj\Debug\net5.0\SimpleDispose.pdb
+D:\dev\cs\Chapter9_AllProjects\SimpleDispose\obj\Debug\net5.0\SimpleDispose.genruntimeconfig.cache

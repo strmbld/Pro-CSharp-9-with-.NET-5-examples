@@ -1,0 +1,15 @@
+{
+  "canFly": true,
+  "canSubmerge": false,
+  "radio": {
+    "hasTweeters": true,
+    "hasSubwoofers": false,
+    "stationPresets": [
+      89.3,
+      105.1,
+      97.1
+    ],
+    "id": "XF-552RR6"
+  },
+  "isHatchback": false
+}

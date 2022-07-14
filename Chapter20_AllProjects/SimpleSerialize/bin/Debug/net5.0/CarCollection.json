@@ -1,0 +1,46 @@
+[
+  {
+    "canFly": true,
+    "canSubmerge": true,
+    "radio": {
+      "hasTweeters": false,
+      "hasSubwoofers": false,
+      "stationPresets": null,
+      "id": "XF-552RR6"
+    },
+    "isHatchback": false
+  },
+  {
+    "canFly": true,
+    "canSubmerge": false,
+    "radio": {
+      "hasTweeters": false,
+      "hasSubwoofers": false,
+      "stationPresets": null,
+      "id": "XF-552RR6"
+    },
+    "isHatchback": false
+  },
+  {
+    "canFly": false,
+    "canSubmerge": true,
+    "radio": {
+      "hasTweeters": false,
+      "hasSubwoofers": false,
+      "stationPresets": null,
+      "id": "XF-552RR6"
+    },
+    "isHatchback": false
+  },
+  {
+    "canFly": false,
+    "canSubmerge": false,
+    "radio": {
+      "hasTweeters": false,
+      "hasSubwoofers": false,
+      "stationPresets": null,
+      "id": "XF-552RR6"
+    },
+    "isHatchback": false
+  }
+]

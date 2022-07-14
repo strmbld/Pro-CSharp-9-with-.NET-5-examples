@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\bin\Debug\net5.0\StaticDataAndMembers.exe
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\bin\Debug\net5.0\StaticDataAndMembers.deps.json
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\bin\Debug\net5.0\StaticDataAndMembers.runtimeconfig.json
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\bin\Debug\net5.0\StaticDataAndMembers.runtimeconfig.dev.json
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\bin\Debug\net5.0\StaticDataAndMembers.dll
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\bin\Debug\net5.0\ref\StaticDataAndMembers.dll
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\bin\Debug\net5.0\StaticDataAndMembers.pdb
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\obj\Debug\net5.0\StaticDataAndMembers.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\obj\Debug\net5.0\StaticDataAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\obj\Debug\net5.0\StaticDataAndMembers.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\obj\Debug\net5.0\StaticDataAndMembers.AssemblyInfo.cs
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\obj\Debug\net5.0\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\obj\Debug\net5.0\StaticDataAndMembers.dll
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\obj\Debug\net5.0\ref\StaticDataAndMembers.dll
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\obj\Debug\net5.0\StaticDataAndMembers.pdb
+D:\dev\cs\Chapter5_AllProjects\StaticDataAndMembers\obj\Debug\net5.0\StaticDataAndMembers.genruntimeconfig.cache

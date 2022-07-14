@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\bin\Debug\net5.0\ObservableCollections.exe
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\bin\Debug\net5.0\ObservableCollections.deps.json
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\bin\Debug\net5.0\ObservableCollections.runtimeconfig.json
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\bin\Debug\net5.0\ObservableCollections.runtimeconfig.dev.json
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\bin\Debug\net5.0\ObservableCollections.dll
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\bin\Debug\net5.0\ref\ObservableCollections.dll
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\bin\Debug\net5.0\ObservableCollections.pdb
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\obj\Debug\net5.0\ObservableCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\obj\Debug\net5.0\ObservableCollections.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\obj\Debug\net5.0\ObservableCollections.AssemblyInfo.cs
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\obj\Debug\net5.0\ObservableCollections.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\obj\Debug\net5.0\ObservableCollections.dll
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\obj\Debug\net5.0\ref\ObservableCollections.dll
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\obj\Debug\net5.0\ObservableCollections.pdb
+D:\dev\cs\Chapter10_AllProjects\ObservableCollections\obj\Debug\net5.0\ObservableCollections.genruntimeconfig.cache

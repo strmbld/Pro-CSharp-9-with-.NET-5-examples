@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\bin\Debug\net5.0\Methods.exe
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\bin\Debug\net5.0\Methods.deps.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\bin\Debug\net5.0\Methods.runtimeconfig.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\bin\Debug\net5.0\Methods.runtimeconfig.dev.json
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\bin\Debug\net5.0\Methods.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\bin\Debug\net5.0\ref\Methods.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\bin\Debug\net5.0\Methods.pdb
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\obj\Debug\net5.0\Methods.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\obj\Debug\net5.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\obj\Debug\net5.0\Methods.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\obj\Debug\net5.0\Methods.AssemblyInfo.cs
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\obj\Debug\net5.0\Methods.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\obj\Debug\net5.0\Methods.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\obj\Debug\net5.0\ref\Methods.dll
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\obj\Debug\net5.0\Methods.pdb
+D:\dev\cs\Chapter4_AllProjects\Chapter4_AllProjects\Methods\obj\Debug\net5.0\Methods.genruntimeconfig.cache

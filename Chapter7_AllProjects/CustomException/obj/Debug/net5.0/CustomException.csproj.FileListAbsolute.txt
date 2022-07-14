@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter7_AllProjects\CustomException\bin\Debug\net5.0\CustomException.exe
+D:\dev\cs\Chapter7_AllProjects\CustomException\bin\Debug\net5.0\CustomException.deps.json
+D:\dev\cs\Chapter7_AllProjects\CustomException\bin\Debug\net5.0\CustomException.runtimeconfig.json
+D:\dev\cs\Chapter7_AllProjects\CustomException\bin\Debug\net5.0\CustomException.runtimeconfig.dev.json
+D:\dev\cs\Chapter7_AllProjects\CustomException\bin\Debug\net5.0\CustomException.dll
+D:\dev\cs\Chapter7_AllProjects\CustomException\bin\Debug\net5.0\ref\CustomException.dll
+D:\dev\cs\Chapter7_AllProjects\CustomException\bin\Debug\net5.0\CustomException.pdb
+D:\dev\cs\Chapter7_AllProjects\CustomException\obj\Debug\net5.0\CustomException.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter7_AllProjects\CustomException\obj\Debug\net5.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter7_AllProjects\CustomException\obj\Debug\net5.0\CustomException.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter7_AllProjects\CustomException\obj\Debug\net5.0\CustomException.AssemblyInfo.cs
+D:\dev\cs\Chapter7_AllProjects\CustomException\obj\Debug\net5.0\CustomException.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter7_AllProjects\CustomException\obj\Debug\net5.0\CustomException.dll
+D:\dev\cs\Chapter7_AllProjects\CustomException\obj\Debug\net5.0\ref\CustomException.dll
+D:\dev\cs\Chapter7_AllProjects\CustomException\obj\Debug\net5.0\CustomException.pdb
+D:\dev\cs\Chapter7_AllProjects\CustomException\obj\Debug\net5.0\CustomException.genruntimeconfig.cache

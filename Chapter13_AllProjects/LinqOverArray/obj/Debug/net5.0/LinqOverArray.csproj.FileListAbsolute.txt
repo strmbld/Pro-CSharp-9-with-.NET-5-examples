@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\obj\Debug\net5.0\LinqOverArray.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\obj\Debug\net5.0\LinqOverArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\obj\Debug\net5.0\LinqOverArray.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\obj\Debug\net5.0\LinqOverArray.AssemblyInfo.cs
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\obj\Debug\net5.0\LinqOverArray.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\bin\Debug\net5.0\LinqOverArray.exe
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\bin\Debug\net5.0\LinqOverArray.deps.json
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\bin\Debug\net5.0\LinqOverArray.runtimeconfig.json
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\bin\Debug\net5.0\LinqOverArray.runtimeconfig.dev.json
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\bin\Debug\net5.0\LinqOverArray.dll
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\bin\Debug\net5.0\ref\LinqOverArray.dll
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\bin\Debug\net5.0\LinqOverArray.pdb
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\obj\Debug\net5.0\LinqOverArray.dll
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\obj\Debug\net5.0\ref\LinqOverArray.dll
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\obj\Debug\net5.0\LinqOverArray.pdb
+D:\dev\cs\Chapter13_AllProjects\LinqOverArray\obj\Debug\net5.0\LinqOverArray.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\bin\Debug\net5.0\ThreadPoolApp.exe
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\bin\Debug\net5.0\ThreadPoolApp.deps.json
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\bin\Debug\net5.0\ThreadPoolApp.runtimeconfig.json
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\bin\Debug\net5.0\ThreadPoolApp.runtimeconfig.dev.json
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\bin\Debug\net5.0\ThreadPoolApp.dll
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\bin\Debug\net5.0\ref\ThreadPoolApp.dll
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\bin\Debug\net5.0\ThreadPoolApp.pdb
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\obj\Debug\net5.0\ThreadPoolApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\obj\Debug\net5.0\ThreadPoolApp.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\obj\Debug\net5.0\ThreadPoolApp.AssemblyInfo.cs
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\obj\Debug\net5.0\ThreadPoolApp.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\obj\Debug\net5.0\ThreadPoolApp.dll
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\obj\Debug\net5.0\ref\ThreadPoolApp.dll
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\obj\Debug\net5.0\ThreadPoolApp.pdb
+D:\dev\cs\Chapter15_AllProjects\ThreadPoolApp\obj\Debug\net5.0\ThreadPoolApp.genruntimeconfig.cache

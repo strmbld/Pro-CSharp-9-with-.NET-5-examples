@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\bin\Debug\net5.0\ImplicitlyTypedLocalVars.exe
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\bin\Debug\net5.0\ImplicitlyTypedLocalVars.deps.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\bin\Debug\net5.0\ImplicitlyTypedLocalVars.runtimeconfig.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\bin\Debug\net5.0\ImplicitlyTypedLocalVars.runtimeconfig.dev.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\bin\Debug\net5.0\ImplicitlyTypedLocalVars.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\bin\Debug\net5.0\ref\ImplicitlyTypedLocalVars.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\bin\Debug\net5.0\ImplicitlyTypedLocalVars.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\obj\Debug\net5.0\ImplicitlyTypedLocalVars.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\obj\Debug\net5.0\ImplicitlyTypedLocalVars.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\obj\Debug\net5.0\ImplicitlyTypedLocalVars.AssemblyInfo.cs
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\obj\Debug\net5.0\ImplicitlyTypedLocalVars.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\obj\Debug\net5.0\ImplicitlyTypedLocalVars.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\obj\Debug\net5.0\ref\ImplicitlyTypedLocalVars.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\obj\Debug\net5.0\ImplicitlyTypedLocalVars.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\obj\Debug\net5.0\ImplicitlyTypedLocalVars.genruntimeconfig.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\ImplicitlyTypedLocalVars\obj\Debug\net5.0\ImplicitlyTypedLocalVars.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter5_AllProjects\Records\bin\Debug\net5.0\Records.exe
+D:\dev\cs\Chapter5_AllProjects\Records\bin\Debug\net5.0\Records.deps.json
+D:\dev\cs\Chapter5_AllProjects\Records\bin\Debug\net5.0\Records.runtimeconfig.json
+D:\dev\cs\Chapter5_AllProjects\Records\bin\Debug\net5.0\Records.runtimeconfig.dev.json
+D:\dev\cs\Chapter5_AllProjects\Records\bin\Debug\net5.0\Records.dll
+D:\dev\cs\Chapter5_AllProjects\Records\bin\Debug\net5.0\ref\Records.dll
+D:\dev\cs\Chapter5_AllProjects\Records\bin\Debug\net5.0\Records.pdb
+D:\dev\cs\Chapter5_AllProjects\Records\obj\Debug\net5.0\Records.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter5_AllProjects\Records\obj\Debug\net5.0\Records.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter5_AllProjects\Records\obj\Debug\net5.0\Records.AssemblyInfo.cs
+D:\dev\cs\Chapter5_AllProjects\Records\obj\Debug\net5.0\Records.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter5_AllProjects\Records\obj\Debug\net5.0\Records.dll
+D:\dev\cs\Chapter5_AllProjects\Records\obj\Debug\net5.0\ref\Records.dll
+D:\dev\cs\Chapter5_AllProjects\Records\obj\Debug\net5.0\Records.pdb
+D:\dev\cs\Chapter5_AllProjects\Records\obj\Debug\net5.0\Records.genruntimeconfig.cache

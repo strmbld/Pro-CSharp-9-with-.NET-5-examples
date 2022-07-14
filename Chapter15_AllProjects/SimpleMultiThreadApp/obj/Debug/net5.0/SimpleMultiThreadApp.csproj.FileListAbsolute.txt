@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\bin\Debug\net5.0\SimpleMultiThreadApp.exe
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\bin\Debug\net5.0\SimpleMultiThreadApp.deps.json
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\bin\Debug\net5.0\SimpleMultiThreadApp.runtimeconfig.json
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\bin\Debug\net5.0\SimpleMultiThreadApp.runtimeconfig.dev.json
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\bin\Debug\net5.0\SimpleMultiThreadApp.dll
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\bin\Debug\net5.0\ref\SimpleMultiThreadApp.dll
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\bin\Debug\net5.0\SimpleMultiThreadApp.pdb
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\obj\Debug\net5.0\SimpleMultiThreadApp.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\obj\Debug\net5.0\SimpleMultiThreadApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\obj\Debug\net5.0\SimpleMultiThreadApp.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\obj\Debug\net5.0\SimpleMultiThreadApp.AssemblyInfo.cs
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\obj\Debug\net5.0\SimpleMultiThreadApp.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\obj\Debug\net5.0\SimpleMultiThreadApp.dll
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\obj\Debug\net5.0\ref\SimpleMultiThreadApp.dll
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\obj\Debug\net5.0\SimpleMultiThreadApp.pdb
+D:\dev\cs\Chapter15_AllProjects\SimpleMultiThreadApp\obj\Debug\net5.0\SimpleMultiThreadApp.genruntimeconfig.cache

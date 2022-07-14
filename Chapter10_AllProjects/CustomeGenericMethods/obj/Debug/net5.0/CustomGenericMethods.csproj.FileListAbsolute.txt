@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\bin\Debug\net5.0\CustomGenericMethods.exe
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\bin\Debug\net5.0\CustomGenericMethods.deps.json
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\bin\Debug\net5.0\CustomGenericMethods.runtimeconfig.json
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\bin\Debug\net5.0\CustomGenericMethods.runtimeconfig.dev.json
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\bin\Debug\net5.0\CustomGenericMethods.dll
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\bin\Debug\net5.0\ref\CustomGenericMethods.dll
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\bin\Debug\net5.0\CustomGenericMethods.pdb
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\obj\Debug\net5.0\CustomGenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\obj\Debug\net5.0\CustomGenericMethods.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\obj\Debug\net5.0\CustomGenericMethods.AssemblyInfo.cs
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\obj\Debug\net5.0\CustomGenericMethods.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\obj\Debug\net5.0\CustomGenericMethods.dll
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\obj\Debug\net5.0\ref\CustomGenericMethods.dll
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\obj\Debug\net5.0\CustomGenericMethods.pdb
+D:\dev\cs\Chapter10_AllProjects\CustomeGenericMethods\obj\Debug\net5.0\CustomGenericMethods.genruntimeconfig.cache

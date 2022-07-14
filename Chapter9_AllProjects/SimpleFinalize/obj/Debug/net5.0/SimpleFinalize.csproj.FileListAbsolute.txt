@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.exe
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.deps.json
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.runtimeconfig.json
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.runtimeconfig.dev.json
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\bin\Debug\net5.0\ref\SimpleFinalize.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\bin\Debug\net5.0\SimpleFinalize.pdb
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.AssemblyInfo.cs
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\obj\Debug\net5.0\ref\SimpleFinalize.dll
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.pdb
+D:\dev\cs\Chapter9_AllProjects\SimpleFinalize\obj\Debug\net5.0\SimpleFinalize.genruntimeconfig.cache

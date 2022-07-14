@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\bin\Debug\net5.0\TypeConversions.exe
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\bin\Debug\net5.0\TypeConversions.deps.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\bin\Debug\net5.0\TypeConversions.runtimeconfig.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\bin\Debug\net5.0\TypeConversions.runtimeconfig.dev.json
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\bin\Debug\net5.0\TypeConversions.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\bin\Debug\net5.0\ref\TypeConversions.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\bin\Debug\net5.0\TypeConversions.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\obj\Debug\net5.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\obj\Debug\net5.0\TypeConversions.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\obj\Debug\net5.0\TypeConversions.AssemblyInfo.cs
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\obj\Debug\net5.0\TypeConversions.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\obj\Debug\net5.0\TypeConversions.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\obj\Debug\net5.0\ref\TypeConversions.dll
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\obj\Debug\net5.0\TypeConversions.pdb
+D:\dev\cs\Chapter3_AllProjects\Chapter3_AllProjects\TypeConversions\obj\Debug\net5.0\TypeConversions.genruntimeconfig.cache

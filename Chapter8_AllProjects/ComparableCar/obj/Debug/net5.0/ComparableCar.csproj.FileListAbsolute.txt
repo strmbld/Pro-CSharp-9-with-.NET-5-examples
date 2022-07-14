@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\bin\Debug\net5.0\ComparableCar.exe
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\bin\Debug\net5.0\ComparableCar.deps.json
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\bin\Debug\net5.0\ComparableCar.runtimeconfig.json
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\bin\Debug\net5.0\ComparableCar.runtimeconfig.dev.json
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\bin\Debug\net5.0\ComparableCar.dll
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\bin\Debug\net5.0\ref\ComparableCar.dll
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\bin\Debug\net5.0\ComparableCar.pdb
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\obj\Debug\net5.0\ComparableCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\obj\Debug\net5.0\ComparableCar.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\obj\Debug\net5.0\ComparableCar.AssemblyInfo.cs
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\obj\Debug\net5.0\ComparableCar.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\obj\Debug\net5.0\ComparableCar.dll
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\obj\Debug\net5.0\ref\ComparableCar.dll
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\obj\Debug\net5.0\ComparableCar.pdb
+D:\dev\cs\Chapter8_AllProjects\ComparableCar\obj\Debug\net5.0\ComparableCar.genruntimeconfig.cache

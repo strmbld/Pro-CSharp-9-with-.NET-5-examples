@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\bin\Debug\net5.0\GenericPoint.exe
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\bin\Debug\net5.0\GenericPoint.deps.json
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\bin\Debug\net5.0\GenericPoint.runtimeconfig.json
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\bin\Debug\net5.0\GenericPoint.runtimeconfig.dev.json
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\bin\Debug\net5.0\GenericPoint.dll
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\bin\Debug\net5.0\ref\GenericPoint.dll
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\bin\Debug\net5.0\GenericPoint.pdb
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\obj\Debug\net5.0\GenericPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\obj\Debug\net5.0\GenericPoint.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\obj\Debug\net5.0\GenericPoint.AssemblyInfo.cs
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\obj\Debug\net5.0\GenericPoint.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\obj\Debug\net5.0\GenericPoint.dll
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\obj\Debug\net5.0\ref\GenericPoint.dll
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\obj\Debug\net5.0\GenericPoint.pdb
+D:\dev\cs\Chapter10_AllProjects\GenericPoint\obj\Debug\net5.0\GenericPoint.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\bin\Debug\net5.0\SimpleSerialize.exe
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\bin\Debug\net5.0\SimpleSerialize.deps.json
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\bin\Debug\net5.0\SimpleSerialize.runtimeconfig.json
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\bin\Debug\net5.0\SimpleSerialize.runtimeconfig.dev.json
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\bin\Debug\net5.0\SimpleSerialize.dll
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\bin\Debug\net5.0\ref\SimpleSerialize.dll
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\bin\Debug\net5.0\SimpleSerialize.pdb
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\obj\Debug\net5.0\SimpleSerialize.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\obj\Debug\net5.0\SimpleSerialize.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\obj\Debug\net5.0\SimpleSerialize.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\obj\Debug\net5.0\SimpleSerialize.AssemblyInfo.cs
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\obj\Debug\net5.0\SimpleSerialize.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\obj\Debug\net5.0\SimpleSerialize.dll
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\obj\Debug\net5.0\ref\SimpleSerialize.dll
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\obj\Debug\net5.0\SimpleSerialize.pdb
+D:\dev\cs\Chapter20_AllProjects\SimpleSerialize\obj\Debug\net5.0\SimpleSerialize.genruntimeconfig.cache

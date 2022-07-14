@@ -1,0 +1,35 @@
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\DataParallelismWithForEach.csproj.AssemblyReference.cache
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\App.g.cs
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\DataParallelismWithForEach_MarkupCompile.cache
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\DataParallelismWithForEach.exe
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\Boston City Flow.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\butterfly.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\city.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\Costa Rican Frog.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\desert.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\flower.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\flowers.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\night.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\Pensive Parakeet.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\sunset.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\surf.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\tiger.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\TestPictures\water.jpg
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\DataParallelismWithForEach.deps.json
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\DataParallelismWithForEach.runtimeconfig.json
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\DataParallelismWithForEach.runtimeconfig.dev.json
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\DataParallelismWithForEach.dll
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\ref\DataParallelismWithForEach.dll
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\bin\Debug\net5.0-windows\DataParallelismWithForEach.pdb
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\DataParallelismWithForEach_MarkupCompile.lref
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\MainWindow.baml
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\DataParallelismWithForEach.g.resources
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\DataParallelismWithForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\DataParallelismWithForEach.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\DataParallelismWithForEach.AssemblyInfo.cs
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\DataParallelismWithForEach.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\DataParallelismWithForEach.dll
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\ref\DataParallelismWithForEach.dll
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\DataParallelismWithForEach.pdb
+D:\dev\cs\Chapter15_AllProjects\DataParallelismWithForEach\obj\Debug\net5.0-windows\DataParallelismWithForEach.genruntimeconfig.cache

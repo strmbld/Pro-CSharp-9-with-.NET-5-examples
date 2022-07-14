@@ -1,0 +1,15 @@
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\bin\Debug\net5.0\CloneablePoint.exe
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\bin\Debug\net5.0\CloneablePoint.deps.json
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\bin\Debug\net5.0\CloneablePoint.runtimeconfig.json
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\bin\Debug\net5.0\CloneablePoint.runtimeconfig.dev.json
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\bin\Debug\net5.0\CloneablePoint.dll
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\bin\Debug\net5.0\ref\CloneablePoint.dll
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\bin\Debug\net5.0\CloneablePoint.pdb
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\obj\Debug\net5.0\CloneablePoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\obj\Debug\net5.0\CloneablePoint.AssemblyInfoInputs.cache
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\obj\Debug\net5.0\CloneablePoint.AssemblyInfo.cs
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\obj\Debug\net5.0\CloneablePoint.csproj.CoreCompileInputs.cache
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\obj\Debug\net5.0\CloneablePoint.dll
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\obj\Debug\net5.0\ref\CloneablePoint.dll
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\obj\Debug\net5.0\CloneablePoint.pdb
+D:\dev\cs\Chapter8_AllProjects\CloneablePoint\obj\Debug\net5.0\CloneablePoint.genruntimeconfig.cache
